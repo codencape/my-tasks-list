@@ -7,7 +7,7 @@ This is application is just used to learn React Js with the basic features. In t
 
 1. Open Terminal
 2. Run the following Command
-    - npm install
-    - npm start
-3  Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+    ### npm install
+    ### npm start
+3.  Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
  
